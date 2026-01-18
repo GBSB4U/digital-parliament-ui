@@ -310,7 +310,79 @@ Accountability is corrective, not punitive—aimed at restoring trust and integr
 7. The GBSB4U Constitution Model
 8. Digital Citizen Model
 9. Rights, Duties, and Accountability
+10. Justice-Oriented and Victim-Centric Governanc
 10. Justice-Oriented and Victim-Centric Governance
+10.1 The Failure of Procedure-Centric Justice
+Modern legal and governance systems prioritize procedure over people.
+Compliance, documentation, timelines, and technical correctness often outweigh lived harm, moral responsibility, and human suffering.
+This has resulted in:
+Victims becoming secondary to process
+Truth being delayed by technicalities
+Power being protected through complexity
+Justice being inaccessible to the vulnerable
+GBSB4U rejects procedure as the ultimate authority.
+Justice, not process, is the purpose of governance.
+10.2 Re-centering the Victim in Governance
+In the GBSB4U framework, the victim is the moral reference point of justice.
+Victim-centric governance means:
+Harm is acknowledged before legality is debated
+Impact is assessed before intent is argued
+Restoration is prioritized over punishment
+Power imbalance is explicitly recognized
+Victims are not “cases.”
+They are human beings whose dignity must be restored.
+10.3 Justice as a Restorative and Corrective Process
+GBSB4U does not equate justice with retribution.
+Justice is defined as:
+Truth recognition
+Responsibility assignment
+Harm acknowledgment
+Correction of wrongdoing
+Prevention of recurrence
+Punishment may be applied where necessary, but it is never the sole objective.
+The goal is restoration of trust, safety, and moral order.
+10.4 Victim Access and Protection
+Victim participation must be:
+Safe
+Dignified
+Free from intimidation or retaliation
+GBSB4U ensures:
+Confidential grievance pathways
+Protection against institutional silencing
+Support during deliberation and review
+Clear communication of outcomes and reasoning
+No victim should be forced to navigate power structures alone.
+10.5 Justice Beyond Courts and Legal Formalism
+Justice in GBSB4U is not confined to courts or adversarial systems.
+It includes:
+Ethical review mechanisms
+Deliberative accountability forums
+Community-informed resolution models
+Constitution-based moral reasoning
+Legal correctness without moral justice is considered insufficient.
+10.6 Accountability of Power Structures
+Victim-centric justice requires scrutiny of power.
+Therefore:
+Institutions are held to higher standards than individuals
+Authority increases responsibility, not immunity
+Structural harm is treated as seriously as individual misconduct
+No office, role, or system is beyond ethical review.
+10.7 Digital Justice and Technology Safeguards
+In digital governance:
+Algorithms cannot override human harm
+Automation cannot deny moral responsibility
+AI may assist analysis but never determine justice
+Every justice-related outcome must be:
+Explainable
+Reviewable
+Reversible where harm is identified
+Technology must serve justice, not obscure it.
+10.8 Summary
+GBSB4U establishes a justice framework where:
+Victims are centered, not sidelined
+Power is accountable, not protected
+Process serves justice, not replaces it
+This approach restores faith in governance by aligning authority with conscience.
 11. Digital Parliament Architecture
 12. Decision-Making Model
 13. AI as Assistant, Not Ruler
