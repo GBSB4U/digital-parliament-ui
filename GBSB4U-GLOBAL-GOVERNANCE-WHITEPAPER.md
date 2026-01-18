@@ -149,7 +149,92 @@ for global collaboration without imposing uniform political control.
 
 The Constitution acts as the backbone for pilot governance models,
 institutional dialogue, and cross-border cooperation.
-   6. 
+   6. 6. Digital Citizen Model
+6.1 Rethinking Citizenship in the Digital Age
+In the GBSB4U framework, citizenship is not defined by identity markers such as nationality, ethnicity, religion, or political affiliation.
+Instead, citizenship is defined as responsibility.
+A Digital Citizen is an individual who:
+Participates in governance through reasoned contribution
+Accepts accountability for actions and decisions
+Respects constitutional boundaries and civilizational ethics
+Engages constructively in collective problem-solving
+This model shifts governance away from mass mobilization and symbolic participation toward qualified, responsible civic engagement.
+6.2 Citizenship as Responsibility, Not Identity
+Modern governance systems often reduce citizenship to:
+Voter identity
+Party alignment
+Demographic classification
+GBSB4U replaces this with a responsibility-centric definition:
+Rights are inseparable from duties
+Participation requires adherence to process
+Influence is earned through contribution quality, not volume or noise
+Digital citizenship is therefore earned, maintained, and regulated, not assumed by default.
+6.3 Rights–Duties Balance
+The Digital Citizen Model establishes a clear balance:
+Rights include:
+Access to transparent governance processes
+Participation in structured deliberation
+Protection from arbitrary power
+Fair hearing in justice-oriented systems
+Duties include:
+Respect for constitutional rules
+Truthful participation and disclosure
+Non-abusive use of digital platforms
+Acceptance of accountability and review
+Rights expand with demonstrated responsibility.
+Abuse or manipulation leads to graduated restriction—not permanent exclusion, but corrective limitation.
+6.4 Participation Without Mob Rule
+GBSB4U explicitly rejects:
+Popularity-based decision making
+Mob voting
+Algorithmic amplification of outrage
+Instead, participation follows:
+Structured proposals
+Evidence-based arguments
+Time-bound deliberation
+Reasoned consensus or recorded dissent
+Digital citizens contribute as participants in a reasoning system, not as a crowd competing for dominance.
+6.5 Protection Against Capture and Manipulation
+The Digital Citizen Model is designed to resist:
+Political party capture
+Corporate lobbying dominance
+Media-driven manipulation
+AI-assisted behavioral control
+Safeguards include:
+Identity-independent participation scoring
+Clear separation between influence and popularity
+Transparent logs of participation and decisions
+Human-final authority in all critical outcomes
+No digital citizen—individual or collective—can override constitutional boundaries.
+6.6 Inclusion Without Dilution
+GBSB4U supports inclusion, but not at the cost of governance quality.
+Inclusion means:
+Equal access to participation pathways
+Support for civic learning and capability building
+Protection for minorities and dissenting voices
+It does not mean:
+Equal weight to uninformed participation
+Automatic authority without responsibility
+Tolerance of disruption or abuse
+This ensures governance remains inclusive yet effective.
+6.7 Relationship with the Digital Parliament
+Digital Citizens interact with the Digital Parliament by:
+Submitting proposals
+Participating in deliberation phases
+Reviewing outcomes
+Raising accountability triggers
+They do not:
+Directly rule
+Replace institutional roles
+Override constitutional processes
+The citizen is a participant, not a ruler.
+6.8 Summary
+The Digital Citizen Model transforms governance participation by:
+Replacing identity-based citizenship with responsibility-based engagement
+Balancing rights with enforceable duties
+Preventing mob behavior and systemic capture
+Preserving human judgment and constitutional supremacy
+This model forms the human foundation upon which the GBSB4U Digital Parliament and governance architecture operate.
    7. 
 The GBSB4U Constitution Model provides the structural backbone of the framework.
 It defines authority, limits, roles, safeguards, and accountability—ensuring that governance remains ethical, bounded, and human-centered.
