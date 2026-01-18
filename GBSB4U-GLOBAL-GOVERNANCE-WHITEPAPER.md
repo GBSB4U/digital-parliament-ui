@@ -384,6 +384,41 @@ Power is accountable, not protected
 Process serves justice, not replaces it
 This approach restores faith in governance by aligning authority with conscience.
 11. Digital Parliament Architecture
+Section 11: Digital Parliament Architecture
+11.1 Purpose of the Digital Parliament
+The GBSB4U Digital Parliament is designed as a non-electoral, non-party, role-based deliberative institution.
+Its primary purpose is reasoned decision-making, not power competition.
+Unlike traditional parliaments driven by political parties, elections, and populism, the Digital Parliament operates on:
+Constitutional clarity
+Structured public reasoning
+Accountability to citizens and victims
+Ethical use of technology
+The Digital Parliament is not a sovereign state authority, but a governance framework that can operate alongside or within existing systems as a deliberative layer.
+11.2 Core Principles
+The architecture of the Digital Parliament is governed by the following principles:
+Human authority is final — AI assists, never decides
+No permanent power centers — roles are functional and reviewable
+Transparency by default — secrecy only where constitutionally justified
+Reason over numbers — arguments matter more than votes
+Victim-centric justice orientation
+11.3 Structural Components
+The Digital Parliament consists of the following functional components:
+a) Proposal Chamber
+Receives policy, reform, and governance proposals
+Ensures proposals meet constitutional and ethical eligibility criteria
+Rejects proposals that violate foundational principles
+b) Deliberation Chamber
+Hosts structured, time-bound, evidence-based debate
+Arguments are logged, categorized, and publicly visible
+Emotional mobilization and propaganda are filtered out
+c) Review and Ethics Chamber
+Examines constitutional compatibility
+Assesses long-term consequences and ethical risks
+Reviews AI-generated inputs for bias or overreach
+d) Decision and Recommendation Council
+Synthesizes deliberation outcomes
+Issues reasoned recommendations, not absolute mandates
+Records minority opinions and dissent transparently
 12. Decision-Making Model
 13. AI as Assistant, Not Ruler
 14. Ethical and Operational Boundaries of AI
