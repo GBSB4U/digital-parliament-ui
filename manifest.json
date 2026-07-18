@@ -1,0 +1,9 @@
+{
+  "name": "GBSB4U Digital Parliament",
+  "short_name": "Digital Parliament",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B3D91",
+  "theme_color": "#0B3D91",
+  "icons": []
+}
