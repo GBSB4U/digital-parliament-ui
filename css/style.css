@@ -204,3 +204,232 @@ border-radius:8px;
 margin:10px;
 
 }
+/* ===============================
+   Feature Cards
+================================ */
+
+.highlights,
+.statistics,
+.quick-actions,
+.latest-proposals,
+.ai-assistant,
+.announcements,
+.contact{
+
+padding:70px 0;
+
+}
+
+.highlights h2,
+.statistics h2,
+.quick-actions h2,
+.latest-proposals h2,
+.ai-assistant h2,
+.announcements h2,
+.contact h2{
+
+text-align:center;
+
+margin-bottom:40px;
+
+font-size:36px;
+
+color:#0B3D91;
+
+}
+
+.cards,
+.stats-grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+gap:25px;
+
+}
+
+.card,
+.stat-card,
+.proposal{
+
+background:#fff;
+
+padding:25px;
+
+border-radius:12px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+
+transition:.3s;
+
+}
+
+.card:hover,
+.stat-card:hover,
+.proposal:hover{
+
+transform:translateY(-6px);
+
+box-shadow:0 12px 25px rgba(0,0,0,.18);
+
+}
+
+.stat-card{
+
+text-align:center;
+
+}
+
+.stat-card h3{
+
+font-size:48px;
+
+color:#0B3D91;
+
+margin-bottom:10px;
+
+}
+
+.proposal-list{
+
+display:grid;
+
+gap:20px;
+
+}
+
+/* ===============================
+   Lists
+================================ */
+
+.announcements ul{
+
+max-width:900px;
+
+margin:auto;
+
+padding-left:20px;
+
+}
+
+.announcements li{
+
+margin-bottom:15px;
+
+font-size:18px;
+
+}
+
+/* ===============================
+   Footer
+================================ */
+
+.footer{
+
+background:#0B3D91;
+
+color:white;
+
+padding:40px 0;
+
+text-align:center;
+
+}
+
+.footer nav{
+
+margin-top:20px;
+
+}
+
+.footer a{
+
+color:#FFD54F;
+
+text-decoration:none;
+
+margin:0 8px;
+
+}
+
+/* ===============================
+   Mobile Responsive
+================================ */
+
+@media(max-width:768px){
+
+.logo{
+
+font-size:22px;
+
+}
+
+.navbar ul{
+
+flex-direction:column;
+
+gap:12px;
+
+}
+
+.hero h1{
+
+font-size:34px;
+
+}
+
+.hero p{
+
+font-size:18px;
+
+}
+
+.primary-btn,
+.secondary-btn{
+
+display:block;
+
+margin:15px auto;
+
+width:90%;
+
+text-align:center;
+
+}
+
+h2{
+
+font-size:28px !important;
+
+}
+
+}
+
+/* ===============================
+   Dark Mode Ready
+================================ */
+
+.dark-mode{
+
+background:#121212;
+
+color:#eeeeee;
+
+}
+
+.dark-mode .card,
+.dark-mode .proposal,
+.dark-mode .stat-card{
+
+background:#1f1f1f;
+
+color:white;
+
+}
+
+.dark-mode .footer{
+
+background:#000;
+
+}
